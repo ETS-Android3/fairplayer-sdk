@@ -35,8 +35,6 @@ The **FairPlayer** name can only be used to uniquely identify **themes** that ar
 You are **free** to use the **FairPlayer** name anywhere inside the **themes** you create including:
 
   - The Google Play listing:
-    - Application title
-    - Application short description
     - Application full description
     - Application icon
     - Application screenshots
@@ -55,7 +53,7 @@ under the following conditions:
   - You **never imply a direct relationship** with FairPlayer's creators
     - Either in the Google Play Store listing (theme description and/or any visual elements) or inside the application (menu elements, text or visual elements, notifications, Toast messages etc.)
     - In **any form of communication** (e-mail, social media, blogs, vlogs, interviews, forums, websites, written or printed media etc.) in **any context** with **any third party**
-  - You do not use a developer name similar to "**FairPlayer Team**" or that includes the words "**FairPlayer**" or "**Fair Player**" in any form (case insensitive)
+  - You do not use a developer name similar to "**FairPlayer**" or "**Mark Jivko**" or that includes the words "**FairPlayer**" or "**Fair Player**" in any form (case insensitive)
 
 Your theme can also be compatible with other third party applications as long as it retains **full compatibility** with FairPlayer.
 
