@@ -1,10 +1,10 @@
+# FairPlayer - Themes SDK 
+
 <p align="center">
     <a href="https://markjivko.com/fairplayer/">
         <img src="https://repository-images.githubusercontent.com/453338760/fa3805c8-6bb9-4184-966b-8e5f56e0ac18"/>
     </a>
 </p>
-
-# FairPlayer - Themes SDK 
 
 This is the official **theme SDK** for the FairPlayer Music Player for Android.
 
