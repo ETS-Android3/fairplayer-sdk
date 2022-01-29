@@ -10,7 +10,7 @@ This is the official **theme SDK** for the FairPlayer Music Player for Android.
 
 You can download the most recent version of FairPlayer on [Google Play](https://play.google.com/store/apps/details?id=com.fairplayer) or export your own from [FairPlayer's source code](https://github.com/markjivko/fairplayer).
 
-This repository contains a **[complete Eclipse project](https://github.com/markjivko/fairplayer-sdk/releases/latest)** with:
+This repository contains a **complete Eclipse project** with:
 
   - All the necessary resources
   - The "**Apply theme**" mechanism
