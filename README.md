@@ -10,20 +10,20 @@ This is the official **theme SDK** for the FairPlayer Music Player for Android.
 
 You can download the most recent version of FairPlayer on [Google Play](https://play.google.com/store/apps/details?id=com.fairplayer) or export your own from [FairPlayer's source code](https://github.com/markjivko/fairplayer).
 
-This repository contains a **complete Eclipse project** with:
+This repository contains a complete Eclipse project with:
 
   - All the necessary resources
-  - The "**Apply theme**" mechanism
+  - The "Apply theme" mechanism
   - The complete ProGuard configuration
 
 # Get creative!
 
-FairPlayer is one of the most powerful and customizable music players ever developed for Android and its growing popularity makes it an ideal partner for Mobile Design Studios focused on developing personalization applications (**themes**).
+FairPlayer is one of the most powerful and customizable music players ever developed for Android and its growing popularity makes it an ideal partner for Mobile Design Studios focused on developing personalization applications (themes).
 
 Developing a theme for FairPlayer is really easy:
 
-  1. Edit a few colors in **/res/values/colors.xml**
-  2. Edit the theme drawables in **/res/drawable-hdpi**
+  1. Edit a few colors in ```/res/values/colors.xml```
+  2. Edit the theme drawables in ```/res/drawable-hdpi```
   3. Export and upload to Google Play
   
 No need to worry about Android 4 / Android 5+ compatibility issues or missing Java files or very complicated build steps.
