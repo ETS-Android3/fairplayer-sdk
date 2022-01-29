@@ -16,7 +16,7 @@ This repository contains a complete Eclipse project with:
   - The "Apply theme" mechanism
   - The complete ProGuard configuration
 
-# Get creative!
+## Get creative!
 
 FairPlayer is one of the most powerful and customizable music players ever developed for Android and its growing popularity makes it an ideal partner for Mobile Design Studios focused on developing personalization applications (themes).
 
@@ -28,12 +28,12 @@ Developing a theme for FairPlayer is really easy:
   
 No need to worry about Android 4 / Android 5+ compatibility issues or missing Java files or very complicated build steps.
 
-# APK-Factory
+## APK-Factory
 
 The ```apk-factory``` folder contains 3 demo projects that are converted to FairPlayer themes automatically by our proprietary tools.
 You can use these projects as inspiration for your own themes.
 
-# Usage
+## Usage
 
 The "FairPlayer" name can only be used to uniquely identify Android applications that are fully compatible with the "FairPlayer Music Player" application in accordance with the [FairPlayer Theme SDK Licenses](https://github.com/markjivko/fairplayer-sdk/blob/main/Licenses.md).
 
